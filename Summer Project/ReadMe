@@ -1,11 +1,6 @@
 
-> Achievement on various ML based projects undertaken during Summer Internship.
+# Achievement on various ML based projects undertaken during Summer Internship.
   
-   -** Predicting Users confidence based on previous Events/Activities. **
+   -Predicting Users confidence based on previous Events/Activities.
    - Dynamic Packaging(using MArket-Baket Analysis Algo) to make combo prodcuts.
    - Grouping/Categorising/Grading of Users according to their activity and to find potential one from them.
-# Structured documents
-
-Sometimes it's useful to have different levels of headings to structure your documents. Start lines with a `#` to create headings. Multiple `##` in a row denote smaller heading sizes.
-
-### This is a
